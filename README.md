@@ -9,7 +9,7 @@ Fundamentally, the training process for the two models and the image colorizatio
 
 *Required paths:
 - Pre-trained 64x64 model: https://drive.google.com/file/d/1Q9TrsqTo3tVY3zACUVW7BLIJIFzE56s2/view?usp=drive_link
-- Final (best) 128x128 model: https://drive.google.com/file/d/1hN7mM0onMkbXqCUFp2fGZg2gCy_NBgPi/view?usp=drive_link
+- Final (best) 128x128 model: [https://drive.google.com/file/d/1hN7mM0onMkbXqCUFp2fGZg2gCy_NBgPi/view?usp=drive_link](https://colab.research.google.com/drive/1pY3pF2XMtNNS1cB_uLpF2I3eVMVcFnAn?usp=sharing)
 - Dataset: https://drive.google.com/drive/folders/1R1cceF-7gmaeG20WTvy2ima-oCptnNbD?usp=drive_link
 
 *Regarding the important files in the project:
